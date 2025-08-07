@@ -1,6 +1,6 @@
 # 🔍 BHEL Vendor Delivery Prediction System
 
-The **BHEL Vendor Delivery Prediction System** is an AI-powered platform developed to enhance procurement operations by predicting vendor delivery timelines and assessing the risk of delays. Combining domain knowledge with machine learning, it provides actionable insights to optimize planning, reduce delays, and save costs.
+The **BHEL Vendor Delivery Prediction System** is an platform developed to enhance procurement operations by predicting vendor delivery timelines and assessing the risk of delays. Combining domain knowledge with machine learning, it provides actionable insights to optimize planning, reduce delays, and save costs.
 
 ---
 
